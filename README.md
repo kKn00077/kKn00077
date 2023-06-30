@@ -2,6 +2,7 @@
 - 잡식성
 - 기술스택 안가리는 편
 - 프론트엔드 쪼끔 가능
+- 사내 git에 서식 중
 
 ## 나의 깃허브
 ![규나의 깃허브](https://github-readme-stats.vercel.app/api?username=kKn00077&show_icons=true&theme=radical)
